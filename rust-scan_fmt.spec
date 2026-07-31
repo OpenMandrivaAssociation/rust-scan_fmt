@@ -5,8 +5,8 @@
 %global crate scan_fmt
 
 Name:           rust-%{crate}
-Version:        0.2.4
-Release:        2%{?dist}
+Version:        0.2.6
+Release:        1%{?dist}
 Summary:        Simple scanf()-like input for Rust
 
 # Upstream license specification: MIT
